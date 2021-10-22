@@ -63,7 +63,6 @@ y_pred_dummy = dummymodel.predict(x_test)
 
 #Avaliando o Modelo
 
-
 acuracia = accuracy_score(y_test, y_predict)
 acuracia
 
