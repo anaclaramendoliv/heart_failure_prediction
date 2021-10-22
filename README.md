@@ -1,6 +1,6 @@
 
 # heart_failure_prediction - Predição de falha no coração 
-Predição usando método de KNN para saber se houve morte por falha no coração.
+Predição usando método de KNN para saber se houve, ou não, morte por falha no coração.
 
 
 - 👋 Hi, I’m @anaclaramendoliv
