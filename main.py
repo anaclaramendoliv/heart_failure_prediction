@@ -41,7 +41,7 @@ miss.matrix(dados)
 # Como os dados, felizmente, estão todos preenchidos podemos pular essa etapa. Proximo passo que também é muito importante
 # é ver quais as variaveis vão entrar no nosso modelo, com isso é interessante ver como elas estão escaladas e se possuem
 # muitos outliers ou nenhum. Como são muitas variaveis vou mostrar apenas algumas aqui.
-# Obs: vamos fazer essa analise por curiosidade já que esse metodo os outliers não dao muita e=interferencia no resultado
+# Obs: vamos fazer essa analise por curiosidade já que esse metodo os outliers não dao muita interferencia no resultado
 # como seria por exemplo com a regressão.
 
 box = px.box(dados, y = 'creatinine_phosphokinase')
